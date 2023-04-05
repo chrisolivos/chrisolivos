@@ -100,10 +100,8 @@
  </br>
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisolivos"/>
  </br>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisolivos&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
-
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisolivos&layout=compact" />
   
-
 </p>
   </details>
   
