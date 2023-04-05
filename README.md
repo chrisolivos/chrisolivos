@@ -95,8 +95,14 @@
   <details>
   <summary>My Github Stats</summary>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasRoudra&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KasRoudra&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
+
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=chrisolivos&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+ </br>
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisolivos"/>
+ </br>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisolivos&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+
+  
 
 </p>
   </details>
