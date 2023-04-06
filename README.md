@@ -80,7 +80,8 @@
       <kbd>Test</kbd>
       <br>
       <br>
-      <img width="30px" src="https://iconape.com/wp-content/files/dx/352988/png/jest-logo.png" />
+       <img width="30px" src="https://iconape.com/wp-content/files/dx/352988/png/jest-logo.png" />
+       <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_jasmine.svg" />
     </kbd>
     <kbd>
       <kbd>Design</kbd>
