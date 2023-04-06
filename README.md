@@ -3,12 +3,8 @@
 <div align="center">
 
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
-<details>
-<summary>Open profile</summary>
 
-[comment]: <> (View Counter)
 <br>
 <div>
   <div align=center>
@@ -33,7 +29,7 @@
  * @param {string} city - Santiago, Chile.
  * @param {string} languagues - English, Spanish.
  * @param {string} jobTitle - Front End Developer.
- * @param {string} approachable - Yes, to collaborate on exciting projects.
+ * @param {string} approachable - Yes, to collaborate on projects.
  * @param {Date} birthday - 20 May
  * @throws {Pets} Cat lover.
  */
@@ -66,14 +62,12 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
     </kbd>
     <kbd>
       <kbd>Database</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
      </kbd>
     <kbd>
       <kbd>Tools</kbd>
@@ -101,10 +95,10 @@
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisolivos"/>
  </br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisolivos" alt="chrisolivos" />
+
 
 </p>
-  </details>
+
   
 <details>
   <summary>Quote</summary>
@@ -124,7 +118,7 @@
 
 </details>
 
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+
 
 </div>
 
