@@ -49,12 +49,14 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
     </kbd>
+    
     <kbd>
       <kbd>Back-end</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     </kbd>
+    
     <kbd>
       <kbd>Front-end</kbd>
       <br>
@@ -63,18 +65,21 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
     </kbd>
+    
     <kbd>
       <kbd>Database</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
      </kbd>
+    
     <kbd>
       <kbd>Tools</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     </kbd>
+    
      <kbd>
       <kbd>Library/FrameWorks</kbd>
       <br>
@@ -82,6 +87,24 @@
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     </kbd>
+    
+     <kbd>
+      <kbd>Test</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://iconape.com/wp-content/files/dx/352988/png/jest-logo.png" />
+
+    </kbd>
+    
+         <kbd>
+      <kbd>Design</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" />
+      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" />
+
+    </kbd>
+    
   </p>
 </div>
 </details>
