@@ -107,7 +107,7 @@
 
 
 </p>
-
+  </details>
   
 <details>
   <summary>Quote</summary>
