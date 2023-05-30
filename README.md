@@ -107,6 +107,12 @@
 
 
 </p>
+<p>
+
+  <br>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisolivos&hide_progress=true(https://github.com/colivos/github-readme-stats)"/>
+
+  </p>
   </details>
   
 <details>
